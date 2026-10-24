@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" font-family="Georgia, Cormorant Garamond, serif">
+<rect width="1600" height="1120" fill="#1c3428"/>
+<text x="40" y="60" fill="#c9a86a" font-size="40" font-weight="bold">PEH EQUINE ANATOMY REFERENCE · points of the horse</text>
+<text x="40" y="95" fill="#f0e8d6" font-size="22">Precision Equine Health · PEH-ANAT-v1.0 · side view, horse facing left · footage must show the part the words name</text>
+<path d="M 300,430 C 280,380 300,330 350,300 C 380,282 420,280 440,300 C 470,330 500,350 540,360 C 600,375 680,380 760,380 C 850,380 930,372 1010,376 C 1080,380 1130,400 1170,440 C 1200,470 1210,520 1200,560 C 1195,600 1180,640 1165,680 L 1150,860 L 1120,860 L 1130,690 C 1110,650 1090,620 1060,610 L 1020,740 L 1000,860 L 970,860 L 985,730 L 1010,600 C 940,590 860,590 790,595 C 720,600 660,605 610,600 L 600,720 L 590,860 L 560,860 L 565,720 L 570,610 C 540,610 520,615 500,625 L 520,740 L 530,860 L 500,860 L 480,740 L 455,620 C 420,600 380,560 360,520 C 330,520 300,500 290,470 C 285,455 290,440 300,430 Z" fill="#6b4a2b" stroke="#f0e8d6" stroke-width="3"/>
+<path d="M 440,300 C 500,290 560,300 620,330 C 680,350 740,360 800,366 L 760,380 C 680,380 600,375 540,360 C 500,350 470,330 440,300 Z" fill="#3a2614"/>
+<path d="M 1170,440 C 1230,470 1260,560 1250,660 C 1245,720 1230,780 1210,820 C 1225,760 1230,700 1220,640 C 1210,580 1190,520 1165,480 Z" fill="#3a2614"/>
+<circle cx="360" cy="360" r="9" fill="#100d09"/>
+<ellipse cx="305" cy="455" rx="7" ry="10" fill="#100d09"/>
+<rect x="494" y="860" width="42" height="28" fill="#2a1a0e" stroke="#f0e8d6" stroke-width="2"/>
+<rect x="554" y="860" width="42" height="28" fill="#2a1a0e" stroke="#f0e8d6" stroke-width="2"/>
+<rect x="964" y="860" width="42" height="28" fill="#2a1a0e" stroke="#f0e8d6" stroke-width="2"/>
+<rect x="1114" y="860" width="42" height="28" fill="#2a1a0e" stroke="#f0e8d6" stroke-width="2"/>
+<circle cx="800" cy="372" r="36" fill="none" stroke="#2ec4b6" stroke-width="6"/>
+<line x1="420" y1="290" x2="400" y2="214" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="420" cy="290" r="6" fill="#c9a86a"/>
+<text x="400" y="220" fill="#c9a86a" font-size="30" text-anchor="end" font-weight="bold">Poll</text>
+<line x1="345" y1="300" x2="330" y2="234" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="345" cy="300" r="6" fill="#c9a86a"/>
+<text x="330" y="240" fill="#c9a86a" font-size="30" text-anchor="end" font-weight="bold">Forelock</text>
+<line x1="295" y1="470" x2="220" y2="534" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="295" cy="470" r="6" fill="#c9a86a"/>
+<text x="220" y="520" fill="#c9a86a" font-size="30" text-anchor="end" font-weight="bold">Muzzle</text>
+<line x1="400" y1="420" x2="330" y2="614" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="400" cy="420" r="6" fill="#c9a86a"/>
+<text x="330" y="600" fill="#c9a86a" font-size="30" text-anchor="end" font-weight="bold">Jaw / throatlatch</text>
+<line x1="560" y1="330" x2="560" y2="224" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="560" cy="330" r="6" fill="#c9a86a"/>
+<text x="560" y="230" fill="#c9a86a" font-size="30" text-anchor="middle" font-weight="bold">Crest (top of neck)</text>
+<line x1="520" y1="420" x2="470" y2="514" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="520" cy="420" r="6" fill="#c9a86a"/>
+<text x="470" y="500" fill="#c9a86a" font-size="30" text-anchor="end" font-weight="bold">Neck</text>
+<line x1="800" y1="370" x2="820" y2="224" stroke="#2ec4b6" stroke-width="2"/>
+<circle cx="800" cy="370" r="6" fill="#2ec4b6"/>
+<text x="820" y="230" fill="#2ec4b6" font-size="30" text-anchor="middle" font-weight="bold">WITHERS</text>
+<text x="820" y="256" fill="#f0e8d6" font-size="22" text-anchor="middle" font-weight="normal">(base of the mane, in front of the saddle)</text>
+<line x1="900" y1="376" x2="900" y2="294" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="900" cy="376" r="6" fill="#c9a86a"/>
+<text x="900" y="300" fill="#c9a86a" font-size="30" text-anchor="middle" font-weight="bold">Back</text>
+<line x1="1000" y1="378" x2="1010" y2="294" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="1000" cy="378" r="6" fill="#c9a86a"/>
+<text x="1010" y="300" fill="#c9a86a" font-size="30" text-anchor="middle" font-weight="bold">Loin</text>
+<line x1="1120" y1="405" x2="1140" y2="294" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="1120" cy="405" r="6" fill="#c9a86a"/>
+<text x="1140" y="300" fill="#c9a86a" font-size="30" text-anchor="middle" font-weight="bold">Croup</text>
+<line x1="1200" y1="470" x2="1320" y2="414" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="1200" cy="470" r="6" fill="#c9a86a"/>
+<text x="1320" y="420" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Dock / tail</text>
+<line x1="1090" y1="440" x2="1340" y2="514" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="1090" cy="440" r="6" fill="#c9a86a"/>
+<text x="1340" y="500" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Point of hip</text>
+<line x1="1200" y1="560" x2="1340" y2="614" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="1200" cy="560" r="6" fill="#c9a86a"/>
+<text x="1340" y="600" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Point of buttock</text>
+<line x1="1060" y1="610" x2="1340" y2="694" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="1060" cy="610" r="6" fill="#c9a86a"/>
+<text x="1340" y="680" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Stifle</text>
+<line x1="1110" y1="650" x2="1340" y2="754" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="1110" cy="650" r="6" fill="#c9a86a"/>
+<text x="1340" y="740" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Gaskin</text>
+<line x1="1130" y1="700" x2="1340" y2="814" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="1130" cy="700" r="6" fill="#c9a86a"/>
+<text x="1340" y="800" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Hock</text>
+<line x1="1140" y1="790" x2="1340" y2="874" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="1140" cy="790" r="6" fill="#c9a86a"/>
+<text x="1340" y="860" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Hind cannon</text>
+<line x1="540" y1="480" x2="300" y2="754" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="540" cy="480" r="6" fill="#c9a86a"/>
+<text x="300" y="740" fill="#c9a86a" font-size="30" text-anchor="end" font-weight="bold">Shoulder</text>
+<line x1="470" y1="560" x2="300" y2="814" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="470" cy="560" r="6" fill="#c9a86a"/>
+<text x="300" y="800" fill="#c9a86a" font-size="30" text-anchor="end" font-weight="bold">Point of shoulder</text>
+<line x1="700" y1="560" x2="700" y2="714" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="700" cy="560" r="6" fill="#c9a86a"/>
+<text x="700" y="700" fill="#c9a86a" font-size="30" text-anchor="middle" font-weight="bold">Barrel / girth</text>
+<line x1="980" y1="560" x2="980" y2="734" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="980" cy="560" r="6" fill="#c9a86a"/>
+<text x="980" y="720" fill="#c9a86a" font-size="30" text-anchor="middle" font-weight="bold">Flank</text>
+<line x1="560" y1="620" x2="300" y2="874" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="560" cy="620" r="6" fill="#c9a86a"/>
+<text x="300" y="860" fill="#c9a86a" font-size="30" text-anchor="end" font-weight="bold">Elbow</text>
+<line x1="505" y1="680" x2="300" y2="934" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="505" cy="680" r="6" fill="#c9a86a"/>
+<text x="300" y="920" fill="#c9a86a" font-size="30" text-anchor="end" font-weight="bold">Forearm</text>
+<line x1="520" y1="740" x2="640" y2="954" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="520" cy="740" r="6" fill="#c9a86a"/>
+<text x="640" y="940" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Knee (carpus)</text>
+<line x1="525" y1="800" x2="640" y2="999" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="525" cy="800" r="6" fill="#c9a86a"/>
+<text x="640" y="985" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Front cannon</text>
+<line x1="528" y1="845" x2="640" y2="1044" stroke="#c9a86a" stroke-width="2"/>
+<circle cx="528" cy="845" r="6" fill="#c9a86a"/>
+<text x="640" y="1030" fill="#c9a86a" font-size="30" text-anchor="start" font-weight="bold">Fetlock</text>
+<text x="40" y="1060" fill="#f0e8d6" font-size="22">Hoof, side view: toe · quarter · heel · heel bulbs · coronary band (hairline) · hoof wall.  Sole view: frog · bars · sole · white line.</text>
+<text x="40" y="1092" fill="#f0e8d6" font-size="22">Lower limb bones: P1 long pastern · P2 short pastern · P3 coffin bone (apex at the toe) · navicular behind P3.  Pastern = between fetlock and hoof.</text>
+</svg>
