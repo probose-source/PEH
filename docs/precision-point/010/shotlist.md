@@ -1,5 +1,5 @@
-# PP010 v1.0 shot list — "Head up. Airway filling."
-Build stamp PP010-v1.0 · checked 2026-11-03 from a 2-fps frame strip of every source window used (calm check), a 4-fps zoom on the trailer and stall windows, and a 2-fps strip of the finished master. Dialogue: owner Lauren (gold), sage Jarnathan (teal), eleven_v4. Anatomy reference: peh-equine-anatomy (PEH-ANAT-v1.0). Pick: Pro's chat pick 2026-11-03, #1 of PEH-WKSEL-2026-11-01-v1.0 (packet IP-20261026-1).
+# PP010 v1.1 shot list — "Head up. Airway filling."
+Build stamp PP010-v1.1 (correction of v1.0, same day) · checked 2026-11-03 from a 2-fps frame strip of every source window used (calm check), a 4-fps zoom on the trailer and stall windows, and a 2-fps strip of the finished master. Dialogue: owner Lauren (gold), sage Jarnathan (teal), eleven_v4. Anatomy reference: peh-equine-anatomy (PEH-ANAT-v1.0). Pick: Pro's chat pick 2026-11-03, #1 of PEH-WKSEL-2026-11-01-v1.0 (packet IP-20261026-1).
 
 | Shot | Time (s) | Words heard | Clip | What is literally visible | Part named / part shown | Calm | Pass |
 |---|---|---|---|---|---|---|---|
@@ -7,7 +7,7 @@ Build stamp PP010-v1.0 · checked 2026-11-03 from a 2-fps frame strip of every s
 | s02 | 4.38–7.67 | S: "Safer for the neighbor. Harder on the airway." | Pexels 19843014 (Svitlana Oreshkina) @0 | Grey in a plaid blanket looking over a board fence, snow field | "airway" is not a visible point; neutral shot | calm: yes — ears up, head still, nostrils relaxed | ✓ |
 | s03 | 7.67–10.15 | O: "My horse is just standing there." | Pexels 11011841 (Billy Llano) @5.5, crop | Bay with a blaze, head out of a stall window in a brick barn aisle | none / — | calm: yes — head still, ears forward | ✓ |
 | s04 | 10.15–13.35 | S: "Head down, gravity helps drain the windpipe." + HEAD DOWN callout | Pexels 11760166 (Roman Odintsov) freeze @12.0 | Bay grazing in a dry paddock, side view, neck extended, head low; teal line drawn along the UNDERSIDE of the neck from the throatlatch toward the chest, labeled WINDPIPE | windpipe / underside of the neck (never the crest) ✓; head down / head down ✓ | calm: yes — grazing | ✓ |
-| s05 | 13.35–16.18 | S: "Tied high, gravity can't help." + TIED HIGH callout (panel low, over the fence) | 19843014 freeze @1.0 | Grey at the fence, head up, face to camera | head high / head high ✓ (the horse is not tied; the callout carries "tied") | calm: yes | ✓ |
+| s05 | 13.35–16.18 | S: "Tied high, gravity can't help." + TIED HIGH panel | 5596202 freeze @4.5, crop on the horse + drawn diagram | Top: chestnut (fly mask) with his head up inside the stock trailer, handler at the halter. Panel: drawn head-and-neck profile, head up, lead tied short to a ring on the trailer front wall, windpipe line on the underside of the neck | tied high / horse in a trailer, head up + drawn short tie ✓; windpipe / underside of neck (drawn) ✓ | calm: yes — ears forward, head still | ✓ |
 | s06 | 16.18–18.20 | O: "So what builds up?" | Pexels 19844651 (Joshua Woroniecki) @2.5, crop | Grey face close: eye, rope halter | none | calm: yes — soft eye, no white showing | ✓ |
 | s07 | 18.20–21.40 | S: "Bacteria. The Australian Veterinary Journal:" + source card | 11760166 @2.0, softened | Bay grazing, wide | none | calm: yes | ✓ |
 | s08 | 21.40–25.51 | S: "twenty-four healthy mares, heads held up for a day or two." + 24-dot tally | 11011841 @5.5, 0.75×, softened | Bay at the stall window, head up | heads held up / head up ✓ | calm: yes | ✓ |
@@ -30,3 +30,7 @@ Checks
 - Text: smallest 56 px (series pill, scrim tagline); captions 94 px; callouts 64–150 px; widths asserted ≤ 960 px; everything inside y 250–1520. One text element at a time; the logo scrim is off during the hook and during every callout.
 - Visual recipe: hook slow motion 0.5× · callouts circled detail on a freeze (windpipe line; nose vs point of shoulder) + counting tally + hour cards + equation · end card plain brand field. PP009 was freeze-frame hook / grid + split bar / blurred still.
 - Humor beat: dropped (humor folder empty). Pro's own Live videos (large MOV files) not used: not reachable through the Drive connector in this run.
+
+## Correction log
+- v1.0 (posted 2026-11-03 ~17:17 UTC) showed a grey at a fence, not tied, under "Tied high". I flagged the mismatch and posted it anyway. That was wrong. No stock clip of a horse tied in a trailer exists (6 more searches run after review).
+- v1.1 (2026-11-03 ~18:30 UTC): s05 replaced with the trailer freeze + drawn short-tie diagram. Facebook post 1245665095301357_122118646719449741 and Pin 240168592623851524 deleted and reposted; Instagram v1.0 (18119730478984273) is for Pro to delete in the app.
