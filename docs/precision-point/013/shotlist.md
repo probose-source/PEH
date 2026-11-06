@@ -1,3 +1,11 @@
+# PP013 v1.1 correction (2026-11-06)
+Pro's review of v1.0: the drawn stretch diagram (s02) was poor-quality generated art, and the video flashed. Fixes, same script, VO, timing and audio:
+- s02 (3.30–7.94 s): drawn horse outline + arrows removed. Now Pexels 40286611 (Olha Lytvynenko) @8.0, softened, with a type-only callout "THE CARROT STRETCH" and the three directions revealed on the VO (CHIN TO CHEST 3.30 s · CHIN TO GIRTH 4.61 s · CHIN TOWARD THE HIP 5.90 s), 66/78 px. No illustration.
+- s05 (16.49–23.84 s): drawn teal band and gold ring removed from the freeze (patched from the clean source frame of 31981705); the "mid-back to loin" callout carries the words.
+- Flashes: v1.0 dropped every overlay (title tag, scrim, captions) for one frame at the s01→s02 diagram reveals (frames 140, 184), and overlays lagged or vanished for 1–3 frames at cuts (238, 414, 668, 715, 783, 850, 896, 908, 973, 1033–1035, 1124–1125). Each now repeats the adjacent complete frame; a frame-difference scan of v1.1 shows no single-frame dips.
+- Rule (Pro, 2026-11-06): never use drawn/generated graphics of horses or anatomy; real footage or type only.
+- Build script assets/build_reference_PP013_v1.1.py (patches the v1.0 master frame by frame).
+
 # PP013 v1.0 shot list — "Carrot stretches aren't a trick."
 Build stamp PP013-v1.0 · checked 2026-11-06 from 2-fps frame strips of every source clip (calm check across each window used), mid-shot frames of the master and a 26-frame contact sheet. Monologue: Jarnathan (c6SfcYrb2t09NHXiT80T), eleven_v4. Anatomy reference: peh-equine-anatomy (PEH-ANAT-v1.0) and the PEH anatomy diagram outline. Pick: Pro's chat pick 2026-11-03, #7 of PEH-WKSEL-2026-11-01-v1.0 (packet IP-20261101-2, PEH Research Digest 2026-11-01). Source: Stubbs NC, Kaiser LJ, Hauptman J, Clayton HM, Equine Vet J 2011;43(5):522–529, doi:10.1111/j.2042-3306.2010.00322.x.
 
